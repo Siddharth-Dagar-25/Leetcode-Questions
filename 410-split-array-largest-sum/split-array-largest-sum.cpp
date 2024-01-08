@@ -10,7 +10,7 @@ public:
                 pagesOfStudent = arr[i];
             }
         }    
-            return students;
+        return students;
     }  
 
     int findPages(vector<int> arr, int n, int m) {
